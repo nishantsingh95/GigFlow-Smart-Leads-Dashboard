@@ -1,0 +1,16 @@
+node_modules/
+dist/
+build/
+# Environment files (never commit secrets)
+.env
+.env.*
+!.env.example
+backend/.env
+frontend/.env
+.env.local
+*.log
+.DS_Store
+coverage/
+.vscode/
+.idea/
+*.tsbuildinfo
