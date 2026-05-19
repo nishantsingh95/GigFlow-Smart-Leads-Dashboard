@@ -205,22 +205,6 @@ npm run preview  # Preview production build
 
 See [.env.example](./.env.example) for all required variables.
 
-## Submission Checklist
-
-- [x] TypeScript (frontend + backend)
-- [x] JWT Authentication with bcrypt
-- [x] Leads CRUD
-- [x] Filtering, search, sort (combined)
-- [x] Backend pagination (10/page)
-- [x] Debounced search
-- [x] CSV export (Admin)
-- [x] RBAC (Admin / Sales User)
-- [x] Docker setup
-- [x] Dark mode
-- [x] README.md
-- [x] .env.example
-- [x] API Documentation
-
 ## Author
 
-Built for the GigFlow MERN Internship Assignment.
+**Nishant Singh**
